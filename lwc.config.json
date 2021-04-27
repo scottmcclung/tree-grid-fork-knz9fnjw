@@ -1,0 +1,10 @@
+{
+  "modules": [
+    {
+      "npm": "lightning-base-components@1.11.5-alpha"
+    },
+    {
+      "dir": "src"
+    }
+  ]
+}
